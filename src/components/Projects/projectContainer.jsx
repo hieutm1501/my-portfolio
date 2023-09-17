@@ -13,7 +13,7 @@ export const projects = [
         desc: ['Welcome to my personal website!'],
         technology: ['ReactJs', 'React Hook', 'Javascript', 'HTML', 'CSS', 'EmailJs'],
         preview: '#',
-        srcCode: 'https://github.com/melkior-nguyen/Portfolio',
+        srcCode: 'https://github.com/hieutm1501/my-portfolio',
         color: '#00ccff'
     },
     {
