@@ -74,13 +74,18 @@
     font-size: 1.4rem;
     margin-right: 1rem;
     cursor: pointer;
-    color: linear-gradient(135deg, var(--color-project), #fff, var(--color-project));
+    color: linear-gradient(135deg, var(--color-project), #ae3434, var(--color-project));
     background-clip: text;
     background-size: 200%;
     animation: anim-flipX 1s ease infinite;
 }
 
-@keyframes anim-flipX {
+.project_info span:hover {
+    color: aqua;
+    transition: 0.5s;
+}
+
+/* @keyframes anim-flipX {
     0% {
         opacity: 0;
         transform: rotateX(90deg);
@@ -92,10 +97,10 @@
     }
 
     100% {
-        opacity: 1;
+        opacity: 2;
         transform: rotateX(720deg);
     }
-}
+} */
 
 .project_button {
     margin: 2rem 0 0 1.7rem;
