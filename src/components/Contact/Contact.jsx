@@ -20,7 +20,7 @@ function Contact() {
 
     function handleSubmit(e) {
         e.preventDefault()
-        emailjs.sendForm('service_0ank5du', 'template_ln13i72', form.current, 'XozuwMD8NleOuyKIO')
+        emailjs.sendForm('service_0ank5du', 'template_m8mac28', form.current, 'XozuwMD8NleOuyKIO')
         alert('Email sent!')
         e.target.reset()
     }
