@@ -47,7 +47,7 @@ function Header() {
 
             <div className='header_info'>
                 <div className='header_info-avatar'>
-                    <img src='https://res.cloudinary.com/dwp7umncy/image/upload/v1687970825/profile/z4369559900155_61e394a481bbd6fcd2a46704d011d5df_iikim3.jpg'></img>
+                    <img src='https://res.cloudinary.com/dwp7umncy/image/upload/v1702986729/z4989930413294_4706c13f25a0eba211b745ee57e9c3b9_pduatq.jpg'></img>
                 </div>
                 <div className='header_info-button'>
                     <Button btnStyle='outline' btnText='Download CV' btnLink={CV} download />
