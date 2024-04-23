@@ -50,7 +50,7 @@ function Header() {
                     <img src='https://res.cloudinary.com/dwp7umncy/image/upload/v1702986729/z4989930413294_4706c13f25a0eba211b745ee57e9c3b9_pduatq.jpg'></img>
                 </div>
                 <div className='header_info-button'>
-                    <Button btnStyle='outline' btnText='Download CV' btnLink={CV} download />
+                    <Button btnStyle='outline' btnText='Download CV' btnLink={'/'} download />
                     <Button btnStyle='primary' btnText="Let' Talk" btnLink='#contact' />
                 </div>
             </div>

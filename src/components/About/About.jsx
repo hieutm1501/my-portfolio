@@ -18,7 +18,7 @@ const About = () => {
                     <p>
                         Welcome to visit my personal Website!<br /> <br />
                         <span>N</span>ame: TRƯƠNG MINH HIẾU. <br />
-                        <span>B</span>irthday: 15/01/2003.<br />
+                        <span>B</span>irthday: 15/01.<br />
                         <span>B</span>orn: a poetic place - Hà Nam. <br />
                         <span>L</span>iving:  HA Noi City, District Cau Giay. <br /><br />
                         <span>I</span>'m a a student at FPT Polytechnic and have a long-term passion for design and especially PROGRAMMING.<br />
