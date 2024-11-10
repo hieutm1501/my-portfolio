@@ -9,13 +9,11 @@ import { RiDoubleQuotesL, RiDoubleQuotesR } from 'react-icons/ri'
 
 function Header() {
 
-
-
     return (
         <section className='main_section header' id='home'>
 
             <div className='header_welcome'>
-                <span>Hello! I'm a <br />Front End Developer</span>
+                <span>Hello! I'm a <br />Front End Developer And ADS Maketing</span>
                 <div className='header_name'>
                     <span style={{ '--i': '1' }} className='letter'>T</span>
                     <span style={{ '--i': '2' }} className='letter'>R</span>
